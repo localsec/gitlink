@@ -1,0 +1,12 @@
+{
+    "repos": [
+        {
+            "url": "https://github.com/user/repo1",
+            "guide": "https://docs.example.com/guide1"
+        },
+        {
+            "url": "https://github.com/user/repo2",
+            "guide": "C:/docs/guide2.pdf"
+        }
+    ]
+}
